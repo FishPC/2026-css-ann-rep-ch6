@@ -1,0 +1,13 @@
+NOTES:
+--SARs and juvenile population estimates for Snake River groups are for C0 group (see note below about 2001, 2004, & 2005). Required Modified Bootstrap runs to estimate C0 SAR to BOA and include jacks for Chinook.
+
+--Chinook SARs NOW include 1-salts (i.e., with jacks); ST SARs also include 1-salts.
+--ALL possible Snake River hatchery ST groups are included in this dataset but they should not all be included in your analysis, due to potential for pseudoreplication. See below for examples. 
+
+
+
+--Estimates of WTT & PITPH are for the portion of the hydrosystem that is represented in the SAR estimate. For example, if SAR is LGR-GRA, then WTT is from LGR tailrace to BON (i.e., LGR pool excluded) and PITPH is from LGR-BON (i.e., PITPH at LGR included)
+
+--NEW for 2026 Report
+--March 31, 2026 --> DWOR, RAPH, CATH, MCCA, IMNA, AGGR - corrected JuvPop and SAR for 2001, 2004, and 2005 (Should have reported C1 SAR and C1 Pop for 2001 & Combined C1-C0 SAR and Combined C1-CO Pop for 2004 and 2005, per Appendix A footnote).
+--April 2026 ---> 1) Where applicable, updated SARs and juv. Pops. for 2022 (Chinook) and 2021 (Steelhead), 2) added SARs and juv. Pops. for 2023 (Chinook) and 2022 (Steelhead), and 3) updated/added WTT and PITPH for "new" years
